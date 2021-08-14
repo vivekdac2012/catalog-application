@@ -1,0 +1,25 @@
+{
+   "name": "red stripes pontic shirt",
+   "pin": "1hy26msd8h9",
+   "category": {
+      "id":1,
+      "name":"shirts",
+      "categoryAttributes":[
+         {
+            "id":1,
+            "name":"color",
+            "value":"Red"
+         },
+         {
+            "id":2,
+            "name":"size",
+            "value":"Large"
+         },
+         {
+            "id":3,
+            "name":"material",
+            "value":"linen"
+         }
+      ]
+   }
+}

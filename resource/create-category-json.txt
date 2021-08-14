@@ -1,0 +1,20 @@
+{
+    "name":"shirts",
+    "categoryAttributes":[
+        {
+            "name":"color",
+            "value":"Red",
+            "attributeTypeId":1
+        },
+        {
+            "name":"size",
+            "value":"Large",
+            "attributeTypeId":2
+        },
+        {
+            "name":"material",
+            "value":"linen",
+            "attributeTypeId":3
+        }
+    ]
+}

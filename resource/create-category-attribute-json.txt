@@ -1,0 +1,5 @@
+{
+	"name":"color",
+	"value":"Red",
+	"attributeTypeId":1
+}
